@@ -1,0 +1,317 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(33): warning C4005: 'R_RESULT_PASS': macro redefinition
+  d:\pg\paju_sample_2015_250207_2\aps_k\GlobalDefine.h(202): note: see previous definition of 'R_RESULT_PASS'
+D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(34): warning C4005: 'R_RESULT_FAIL': macro redefinition
+  d:\pg\paju_sample_2015_250207_2\aps_k\GlobalDefine.h(203): note: see previous definition of 'R_RESULT_FAIL'
+D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(55): warning C4005: 'R_FAIL_NOISE': macro redefinition
+  d:\pg\paju_sample_2015_250207_2\aps_k\GlobalDefine.h(204): note: see previous definition of 'R_FAIL_NOISE'
+D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(89): warning C4005: 'R_FAIL_BLACK_SPOT': macro redefinition
+  d:\pg\paju_sample_2015_250207_2\aps_k\GlobalDefine.h(205): note: see previous definition of 'R_FAIL_BLACK_SPOT'
+D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(90): warning C4005: 'R_FAIL_STAIN': macro redefinition
+  d:\pg\paju_sample_2015_250207_2\aps_k\GlobalDefine.h(206): note: see previous definition of 'R_FAIL_STAIN'
+d:\pg\paju_sample_2015_250207_2\aps_k\Vision.h(6): warning C4995: 'MPTYPE': name was marked as #pragma deprecated
+  AA Bonder.cpp
+  AA BonderDlg.cpp
+AA BonderDlg.cpp(412): warning C4101: 'e': unreferenced local variable
+AA BonderDlg.cpp(3412): warning C4101: 'dwResult': unreferenced local variable
+AA BonderDlg.cpp(4542): warning C4101: 'nCount': unreferenced local variable
+AA BonderDlg.cpp(4947): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+AA BonderDlg.cpp(4948): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+AA BonderDlg.cpp(4992): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+AA BonderDlg.cpp(4993): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+AA BonderDlg.cpp(6540): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+AA BonderDlg.cpp(6835): warning C4101: 'dShiftX': unreferenced local variable
+AA BonderDlg.cpp(6835): warning C4101: 'dShiftY': unreferenced local variable
+AA BonderDlg.cpp(7334): warning C4101: 'szTmp': unreferenced local variable
+AA BonderDlg.cpp(7365): warning C4101: 'szLog': unreferenced local variable
+AA BonderDlg.cpp(8177): warning C4101: 'b': unreferenced local variable
+AA BonderDlg.cpp(8177): warning C4101: 'r': unreferenced local variable
+AA BonderDlg.cpp(10025): warning C4101: 'IsFind': unreferenced local variable
+AA BonderDlg.cpp(10052): warning C4995: 'MdigReference': name was marked as #pragma deprecated
+AA BonderDlg.cpp(10053): warning C4995: 'MdigReference': name was marked as #pragma deprecated
+  ADOClass.cpp
+  AlarmDialog.cpp
+AlarmDialog.cpp(1007): warning C4101: 'bOutBlowFlag': unreferenced local variable
+AlarmDialog.cpp(1007): warning C4101: 'bOutVaccumFlag': unreferenced local variable
+  algo_base.cpp
+  Aps_Insp.cpp
+Algorithm\INSP\Aps_Insp.cpp(6): warning C4005: 'R_RESULT_PASS': macro redefinition
+  D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(33): note: see previous definition of 'R_RESULT_PASS'
+Algorithm\INSP\Aps_Insp.cpp(7): warning C4005: 'R_RESULT_FAIL': macro redefinition
+  D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(34): note: see previous definition of 'R_RESULT_FAIL'
+Algorithm\INSP\Aps_Insp.cpp(8): warning C4005: 'R_FAIL_NOISE': macro redefinition
+  D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(55): note: see previous definition of 'R_FAIL_NOISE'
+Algorithm\INSP\Aps_Insp.cpp(9): warning C4005: 'R_FAIL_BLACK_SPOT': macro redefinition
+  D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(89): note: see previous definition of 'R_FAIL_BLACK_SPOT'
+Algorithm\INSP\Aps_Insp.cpp(10): warning C4005: 'R_FAIL_STAIN': macro redefinition
+  D:\PG\PAJU_SAMPLE_2015_250207_2\APS_K\Library\Inspection\Include\LibACMISCommon/InspectionErrorCode.h(90): note: see previous definition of 'R_FAIL_STAIN'
+Algorithm\INSP\Aps_Insp.cpp(173): warning C4101: 'strTmp': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(415): warning C4101: 'strTmp': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(861): warning C4101: 'title': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(859): warning C4101: 'i': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(860): warning C4101: 'nResultRI_X': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(1037): warning C4101: 'dSFR': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(1020): warning C4101: 'szTmp': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(1822): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(1827): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(1836): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(2013): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(2021): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(2247): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(2255): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Algorithm\INSP\Aps_Insp.cpp(2225): warning C4101: 'tStainSpec': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(2361): warning C4101: 'WData': unreferenced local variable
+Algorithm\INSP\Aps_Insp.cpp(2422): warning C4101: 'WData': unreferenced local variable
+  AskMsgDlg.cpp
+  AskMsgDlg2.cpp
+  AutoDispDlg.cpp
+  AutoPouseDlg.cpp
+  AxlMotorSet.cpp
+AxlMotion\AxlMotorSet.cpp(528): warning C4101: 'dwStatus': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(5601): warning C4101: 'dEndPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(5600): warning C4101: 'dMidPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(5848): warning C4101: 'dEndPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(5847): warning C4101: 'dMidPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(5998): warning C4101: 'dEndPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(5997): warning C4101: 'dMidPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(6289): warning C4101: 'dEndPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(6288): warning C4101: 'dMidPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(7091): warning C4101: 'dEndPos': unreferenced local variable
+AxlMotion\AxlMotorSet.cpp(10204): warning C4101: 'dPos': unreferenced local variable
+  BarcodeDlg.cpp
+  BarcodeRead.cpp
+  CcdBlemishSpecDlg.cpp
+CcdBlemishSpecDlg.cpp(378): warning C4101: 'szData': unreferenced local variable
+CcdBlemishSpecDlg.cpp(408): warning C4101: 'szData': unreferenced local variable
+CcdBlemishSpecDlg.cpp(420): warning C4101: 'szData': unreferenced local variable
+  CcdChartSpecDlg.cpp
+  CcdDefectSpecDlg.cpp
+CcdDefectSpecDlg.cpp(337): warning C4101: 'szData': unreferenced local variable
+CcdDefectSpecDlg.cpp(353): warning C4101: 'szData': unreferenced local variable
+  CcdDlg.cpp
+  CCDInspModeDlg.cpp
+  CcdRiOcSpecDlg.cpp
+CcdRiOcSpecDlg.cpp(287): warning C4101: 'szData': unreferenced local variable
+  CcdRISpecDlg.cpp
+CcdRISpecDlg.cpp(620): warning C4101: 'szData': unreferenced local variable
+CcdRISpecDlg.cpp(765): warning C4101: 'szData': unreferenced local variable
+  Generating Code...
+  Compiling...
+  CCDSFRDlg.cpp
+CCDSFRDlg.cpp(454): warning C4101: 'i': unreferenced local variable
+CCDSFRDlg.cpp(451): warning C4101: 'nCount': unreferenced local variable
+CCDSFRDlg.cpp(625): warning C4101: 'i': unreferenced local variable
+CCDSFRDlg.cpp(622): warning C4101: 'nCount': unreferenced local variable
+CCDSFRDlg.cpp(2302): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+CCDSFRDlg.cpp(2416): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+CCDSFRDlg.cpp(3346): warning C4101: 'nCount': unreferenced local variable
+CCDSFRDlg.cpp(3356): warning C4101: 'nCount': unreferenced local variable
+  CcdSfrSpecDlg.cpp
+  CcdSnrColorSensSpecDlg.cpp
+CcdSnrColorSensSpecDlg.cpp(320): warning C4101: 'szData': unreferenced local variable
+CcdSnrColorSensSpecDlg.cpp(351): warning C4101: 'szData': unreferenced local variable
+  ChartSetDlg.cpp
+  ContinuousButton.cpp
+  csv_parser.cpp
+csv_parser.cpp(482): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DataHandler.cpp
+DataHandler.cpp(733): warning C4101: 'szFilePath': unreferenced local variable
+DataHandler.cpp(4211): warning C4101: 'szPath': unreferenced local variable
+DataHandler.cpp(4857): warning C4101: 'szIniBuff': unreferenced local variable
+DataHandler.cpp(5372): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(5369): warning C4101: 'j': unreferenced local variable
+DataHandler.cpp(5534): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(5721): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(5710): warning C4101: 'szIniBuff': unreferenced local variable
+DataHandler.cpp(5712): warning C4101: 'j': unreferenced local variable
+DataHandler.cpp(5939): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(5937): warning C4101: 'k': unreferenced local variable
+DataHandler.cpp(6571): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(6702): warning C4101: 'temp': unreferenced local variable
+DataHandler.cpp(7696): warning C4477: 'fprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(7858): warning C4477: 'fprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(8010): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(7999): warning C4101: 'szIniBuff': unreferenced local variable
+DataHandler.cpp(8001): warning C4101: 'j': unreferenced local variable
+DataHandler.cpp(8107): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+DataHandler.cpp(8105): warning C4101: 'k': unreferenced local variable
+  DataSet.cpp
+  DelayMsgDlg.cpp
+  LightControl.cpp
+  OCControl.cpp
+  UvAltisControl.cpp
+  UVCommand.cpp
+  UVControl.cpp
+Device\UV\UVControl.cpp(276): warning C4101: 'nIndex': unreferenced local variable
+Device\UV\UVControl.cpp(275): warning C4101: 'nRetVal': unreferenced local variable
+Device\UV\UVControl.cpp(352): warning C4101: 'nIndex': unreferenced local variable
+Device\UV\UVControl.cpp(351): warning C4101: 'nRetVal': unreferenced local variable
+  DioControl.cpp
+DioControl.cpp(1636): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  DisplacementDlg.cpp
+  EditDlg.cpp
+  EpoxyDlg.cpp
+  ExButton.cpp
+  ForceAlignDlg.cpp
+  Generating Code...
+  Compiling...
+  GetNumDlg.cpp
+  GlobalDeclare.cpp
+GlobalDeclare.cpp(212): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GlobalDeclare.cpp(213): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GlobalDeclare.cpp(329): warning C4477: 'fprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+GlobalDeclare.cpp(497): warning C4477: 'fprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+GlobalDeclare.cpp(604): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+GlobalDeclare.cpp(607): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+GlobalDeclare.cpp(611): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+GlobalDeclare.cpp(615): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+GlobalDeclare.cpp(619): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+GlobalDeclare.cpp(625): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'CString'
+GlobalDeclare.cpp(928): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GlobalDeclare.cpp(1788): warning C4101: 'px': unreferenced local variable
+GlobalDeclare.cpp(1957): warning C4305: 'argument': truncation from 'int' to 'char'
+GlobalDeclare.cpp(1957): warning C4309: 'argument': truncation of constant value
+GlobalDeclare.cpp(2094): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GlobalDeclare.cpp(2109): warning C4101: 'zMax': unreferenced local variable
+GlobalDeclare.cpp(2109): warning C4101: 'zMin': unreferenced local variable
+  dib256.cpp
+  dibpal.cpp
+  Graph2DExtendWnd.cpp
+  Graph2DWnd.cpp
+  Graph2D_Data.cpp
+  Graph2D_Resource.cpp
+  BlobLabeling.cpp
+  Inspection_Alg.cpp
+  InfoDlg.cpp
+InfoDlg.cpp(427): warning C4101: 'szData': unreferenced local variable
+  InformDlg.cpp
+  Insp_Spec_Set.cpp
+  IoDlg.cpp
+  IrvLedControl.cpp
+  Comm_RS232C.cpp
+keyence\Comm_RS232C.cpp(477): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  KeyenceSensor.cpp
+  KeyPadDlg.cpp
+  Label.cpp
+  LensDlg.cpp
+LensDlg.cpp(546): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+LensDlg.cpp(547): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+  Generating Code...
+  Compiling...
+  LensEdgeDlg.cpp
+  AutoRepeatButton.cpp
+  BtnST.cpp
+Library\AutoRepeat\BtnST.cpp(979): warning C4312: 'type cast': conversion from 'unsigned long' to 'HICON' of greater size
+Library\AutoRepeat\BtnST.cpp(979): warning C4311: 'type cast': pointer truncation from 'HICON' to 'int'
+Library\AutoRepeat\BtnST.cpp(979): warning C4302: 'type cast': truncation from 'HICON' to 'int'
+Library\AutoRepeat\BtnST.cpp(980): warning C4312: 'type cast': conversion from 'unsigned long' to 'HICON' of greater size
+Library\AutoRepeat\BtnST.cpp(1034): warning C4312: 'type cast': conversion from 'unsigned long' to 'HICON' of greater size
+  Handler_RS232C.cpp
+Library\RS232C\Handler_RS232C.cpp(474): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TimeChecker.cpp
+  UtilityFunc.cpp
+Library\Utility\UtilityFunc.cpp(1894): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LightDlg.cpp
+  LogThread.cpp
+LogThread.cpp(150): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+LogThread.cpp(150): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 5 has type 'CString'
+LogThread.cpp(84): warning C4101: 'out': unreferenced local variable
+LogThread.cpp(190): warning C4101: 'j': unreferenced local variable
+LogThread.cpp(190): warning C4101: 'i': unreferenced local variable
+  MarkSetDlg.cpp
+MarkSetDlg.cpp(87): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+MarkSetDlg.cpp(88): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+MarkSetDlg.cpp(106): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+MarkSetDlg.cpp(136): warning C4995: 'M_DRAW_DONT_CARES': name was marked as #pragma deprecated
+MarkSetDlg.cpp(160): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+MarkSetDlg.cpp(161): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+MarkSetDlg.cpp(170): warning C4995: 'M_DONT_CARES': name was marked as #pragma deprecated
+MarkSetDlg.cpp(193): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+MarkSetDlg.cpp(194): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+MarkSetDlg.cpp(417): warning C4995: 'M_DONT_CARES': name was marked as #pragma deprecated
+  MesConnSocket.cpp
+  CDemosaic.cpp
+  MIU.cpp
+MIU\MIU.cpp(961): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+MIU\MIU.cpp(1132): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+MIU\MIU.cpp(1132): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+MIU\MIU.cpp(1295): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+MIU\MIU.cpp(1381): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+MIU\MIU.cpp(1454): warning C4101: 'DataByteCount': unreferenced local variable
+MIU\MIU.cpp(1453): warning C4101: 'i': unreferenced local variable
+MIU\MIU.cpp(1505): warning C4101: 'DataByteCount': unreferenced local variable
+MIU\MIU.cpp(1503): warning C4101: 'i': unreferenced local variable
+MIU\MIU.cpp(3356): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+MIU\MIU.cpp(3362): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+MIU\MIU.cpp(3353): warning C4101: 'IsFind': unreferenced local variable
+MIU\MIU.cpp(3861): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+MIU\MIU.cpp(3865): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+MIU\MIU.cpp(3869): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+MIU\MIU.cpp(3873): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+  ModelDlg.cpp
+ModelDlg.cpp(540): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+  LensTeaching.cpp
+  PcbProcess2.cpp
+  PcbTeaching.cpp
+  PcbTeachingDis.cpp
+  PassWordDlg.cpp
+  PcbDlg.cpp
+  MandoFinalSFR.cpp
+PRI_INSP\MandoFinalSFR.cpp(89): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  PcsUtil.cpp
+  SfrSpec.cpp
+  ClientSocket.cpp
+  ConnectSocket.cpp
+  ListenSocket.cpp
+  TiltingManualDlg.cpp
+  BaseThread.cpp
+  GridCell.cpp
+  GridCellBase.cpp
+  GridCellCheck.cpp
+  GridCellCombo.cpp
+  GridCtrl.cpp
+  GridDropTarget.cpp
+  InPlaceEdit.cpp
+  TitleTip.cpp
+  Serial.cpp
+  Vision.cpp
+Vision.cpp(60): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(78): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(106): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(130): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(141): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(155): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(485): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(486): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(511): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(527): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(536): warning C4995: 'M_DISPLAY_SETUP': name was marked as #pragma deprecated
+Vision.cpp(536): warning C4995: 'M_DEF_DISPLAY_FORMAT': name was marked as #pragma deprecated
+Vision.cpp(545): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(553): warning C4995: 'M_DISPLAY_SETUP': name was marked as #pragma deprecated
+Vision.cpp(553): warning C4995: 'M_DEF_DISPLAY_FORMAT': name was marked as #pragma deprecated
+Vision.cpp(557): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(565): warning C4995: 'M_DISPLAY_SETUP': name was marked as #pragma deprecated
+Vision.cpp(565): warning C4995: 'M_DEF_DISPLAY_FORMAT': name was marked as #pragma deprecated
+Vision.cpp(567): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(585): warning C4995: 'M_WINDOW_OVR_SHOW': name was marked as #pragma deprecated
+Vision.cpp(605): warning C4995: 'M_WINDOW_OVR_SHOW': name was marked as #pragma deprecated
+Vision.cpp(621): warning C4995: 'M_WINDOW_OVR_SHOW': name was marked as #pragma deprecated
+Vision.cpp(697): warning C4995: 'M_WINDOW_OVR_SHOW': name was marked as #pragma deprecated
+Vision.cpp(1173): warning C4995: 'MOs_strlen': name was marked as #pragma deprecated
+Vision.cpp(1237): warning C4995: 'M_DRAW_SCALE_X': name was marked as #pragma deprecated
+Vision.cpp(1238): warning C4995: 'M_DRAW_SCALE_Y': name was marked as #pragma deprecated
+Vision.cpp(1623): warning C4995: 'M_SEARCH_OFFSET_X': name was marked as #pragma deprecated
+Vision.cpp(1624): warning C4995: 'M_SEARCH_OFFSET_Y': name was marked as #pragma deprecated
+Vision.cpp(1625): warning C4995: 'M_SEARCH_SIZE_X': name was marked as #pragma deprecated
+Vision.cpp(1626): warning C4995: 'M_SEARCH_SIZE_Y': name was marked as #pragma deprecated
+Vision.cpp(1899): warning C4995: 'MPTYPE': name was marked as #pragma deprecated
+Vision.cpp(2075): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+Vision.cpp(2105): warning C4995: 'M_DEF_IMAGE_TYPE': name was marked as #pragma deprecated
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  AA Bonder.vcxproj -> D:\PG\PAJU_SAMPLE_2015_250207_2\x64\Release\AA Bonder.exe
